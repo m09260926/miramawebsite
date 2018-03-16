@@ -1,0 +1,247 @@
+<manifest alg="2" build="2015.0.0.309" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="mirama.com.tw" resolutions="1x" timestamp="1478505279921">
+  <folder name="css">
+    <file name="site_global.css" crc="3824719869"/>
+    <file name="master_b-__-__.css" crc="42136038" ref="about:portfolio:contact"/>
+    <file name="master_c-__-portfolio.css" crc="378573342" ref="商業攝影:video:others:design:photography:忘憂雜貨店"/>
+    <file name="master_a-__-home.css" crc="3834903467" ref="index"/>
+    <file name="____.css" crc="34350598" ref="商業攝影"/>
+    <file name="video.css" crc="5267259" ref="video"/>
+    <file name="iefonts_video.css" crc="3868947535" ref="video"/>
+    <file name="about.css" crc="4220486364" ref="about"/>
+    <file name="iefonts_about.css" crc="153340564" ref="about"/>
+    <file name="others.css" crc="3870230626" ref="others"/>
+    <file name="iefonts_others.css" crc="428879136" ref="others"/>
+    <file name="design.css" crc="337992909" ref="design"/>
+    <file name="iefonts_design.css" crc="3964522102" ref="design"/>
+    <file name="portfolio.css" crc="3864165524" ref="portfolio"/>
+    <file name="iefonts_portfolio.css" crc="466841942" ref="portfolio"/>
+    <file name="contact.css" crc="152682886" ref="contact"/>
+    <file name="iefonts_contact.css" crc="256546910" ref="contact"/>
+    <file name="photography.css" crc="411078705" ref="photography"/>
+    <file name="iefonts_photography.css" crc="323393305" ref="photography"/>
+    <file name="_____.css" crc="3802337844" ref="忘憂雜貨店"/>
+    <file name="index.css" crc="189764409" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about:portfolio:contact:design:photography:video:others:忘憂雜貨店:商業攝影"/>
+    <file name="museutils.js" crc="183364071" ref="index:about:portfolio:contact:design:photography:video:others:忘憂雜貨店:商業攝影"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:about:portfolio:contact:design:photography:video:others:忘憂雜貨店:商業攝影"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:about:portfolio:contact:design:photography:video:others:忘憂雜貨店:商業攝影"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:about:portfolio:contact:design:photography:video:others:忘憂雜貨店:商業攝影"/>
+    <file name="pie.js" crc="3827607177" ref="index:about:portfolio:design:photography:video:忘憂雜貨店:商業攝影"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact:design:photography:video:others:忘憂雜貨店:商業攝影"/>
+    <file name="webpro.js" crc="3803554875" ref="portfolio:contact:design:photography:忘憂雜貨店:商業攝影"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="portfolio:design:photography:忘憂雜貨店:商業攝影"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="portfolio:design:photography:忘憂雜貨店:商業攝影"/>
+    <file name="touchswipe.js" crc="4038331989" ref="portfolio:design:photography:忘憂雜貨店:商業攝影"/>
+    <file name="form_check.php" crc="277267350" ref="contact"/>
+    <file name="form_throttle.php" crc="3908387251" ref="contact"/>
+    <file name="form_process.php" crc="24249335" ref="contact"/>
+    <file name="form-u590.php" crc="173195546" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="marble-1529415_1920.jpg" crc="154046474" ref="index:about:portfolio:contact:design:photography:video:others:忘憂雜貨店:商業攝影"/>
+    <file name="arrowmenudown.gif" crc="213132104" ref="index:about:design"/>
+    <file name="arrowmenuright.gif" crc="36340589" ref="index:about:design"/>
+    <file name="photo_7.jpg" crc="3767388654" ref="index"/>
+    <file name="未命名-2.png" crc="27935705" ref="index"/>
+    <file name="黑logo.png" crc="4227496090" ref="index:about:design"/>
+    <file name="img_0976.jpg" crc="458947447" ref="about"/>
+    <file name="img_0975.jpg" crc="4047283561" ref="about"/>
+    <file name="img_0465.jpg" crc="3969030061" ref="about"/>
+    <file name="img_0513.jpg" crc="3870504196" ref="about"/>
+    <file name="img_0502.jpg" crc="3880942925" ref="about"/>
+    <file name="img_0825.jpg" crc="73415566" ref="about"/>
+    <file name="未命名-1.png" crc="430983494" ref="about"/>
+    <file name="photography.png" crc="378051465" ref="about"/>
+    <file name="edit.png" crc="409002497" ref="about"/>
+    <file name="idea.png" crc="4236677815" ref="about"/>
+    <file name="海報_粉色版.jpg" crc="510057201" seo="true" ref="portfolio:design"/>
+    <file name="名片初稿-03.png" crc="12557348" ref="portfolio"/>
+    <file name="104政大傳院新生手冊.jpg" crc="64946372" ref="portfolio"/>
+    <file name="四版-04.jpg" crc="34809598" seo="true" ref="portfolio:design"/>
+    <file name="104級蘭友會迎新-愛火蘭燒-u873-fr.jpg" crc="56999483" ref="portfolio"/>
+    <file name="蘭友會粉絲團大頭貼-u885-fr.jpg" crc="3918941586" ref="portfolio"/>
+    <file name="104級蘭友會迎新-愛火蘭燒.jpg" crc="3786805924" ref="portfolio"/>
+    <file name="蘭友會粉絲團大頭貼.jpg" crc="3909231981" ref="portfolio"/>
+    <file name="img_0045.jpg" crc="318088078" seo="true" ref="portfolio:photography"/>
+    <file name="blank.gif" crc="4208392903" ref="portfolio:design:photography:忘憂雜貨店:商業攝影"/>
+    <file name="2015summer-4.jpg" crc="4184080862" seo="true" ref="portfolio:photography"/>
+    <file name="6(11x14).jpg" crc="4121689228" seo="true" ref="portfolio:photography"/>
+    <file name="2015summer-3.jpg" crc="195303492" seo="true" ref="portfolio:photography"/>
+    <file name="白目二分之一＠馬翊_09.jpg" crc="51053549" seo="true" ref="portfolio:photography"/>
+    <file name="hellonico@馬翊-17.jpg" crc="4253029063" seo="true" ref="portfolio:photography"/>
+    <file name="hellonico@馬翊-24.jpg" crc="4237263920" seo="true" ref="portfolio:photography"/>
+    <file name="loading.gif" crc="3815509949" ref="portfolio:design:photography:忘憂雜貨店:商業攝影"/>
+    <file name="粉絲團logo.jpg" crc="3787628630" ref="portfolio"/>
+    <file name="10245903_938796632834025_657720293_n.jpg" crc="4136297185" ref="portfolio:商業攝影"/>
+    <file name="u596-17.png" crc="339988660" ref="contact"/>
+    <file name="u596-17-r.png" crc="307355030" ref="contact"/>
+    <file name="u596-17-m.png" crc="3802992988" ref="contact"/>
+    <file name="u596-17-fs.png" crc="4053970260" ref="contact"/>
+    <file name="徽章-01.jpg" crc="4120284271" seo="true" ref="design"/>
+    <file name="banner_臉書banner.jpg" crc="269300619" seo="true" ref="design"/>
+    <file name="入場機制(修2)-01拷貝拷貝.jpg" crc="3922082577" seo="true" ref="design"/>
+    <file name="言論廣場海報-01拷貝.jpg" crc="491043351" seo="true" ref="design"/>
+    <file name="流程圖rgb-01-01拷貝.jpg" crc="3793892008" seo="true" ref="design"/>
+    <file name="海報柱(終)-01拷貝.jpg" crc="42130069" seo="true" ref="design"/>
+    <file name="1.jpg" crc="3930343997" seo="true" ref="design"/>
+    <file name="2.jpg" crc="4126235961" seo="true" ref="design"/>
+    <file name="3.jpg" crc="277528890" seo="true" ref="design"/>
+    <file name="5.jpg" crc="4212504631" seo="true" ref="design"/>
+    <file name="6.jpg" crc="3801370769" seo="true" ref="design"/>
+    <file name="7.jpg" crc="74734254" seo="true" ref="design"/>
+    <file name="8.jpg" crc="52206165" seo="true" ref="design"/>
+    <file name="9.jpg" crc="4077634354" seo="true" ref="design"/>
+    <file name="10.jpg" crc="463162015" seo="true" ref="design"/>
+    <file name="11.jpg" crc="505628070" seo="true" ref="design"/>
+    <file name="12.jpg" crc="497178895" seo="true" ref="design"/>
+    <file name="13.jpg" crc="3831618293" seo="true" ref="design"/>
+    <file name="14.jpg" crc="4119792456" seo="true" ref="design"/>
+    <file name="close up.jpg" crc="3882992768" seo="true" ref="design"/>
+    <file name="22.jpg" crc="4098484985" seo="true" ref="design"/>
+    <file name="32.jpg" crc="3858302478" seo="true" ref="design"/>
+    <file name="4.jpg" crc="310156318" seo="true" ref="design"/>
+    <file name="52.jpg" crc="3794992653" seo="true" ref="design"/>
+    <file name="62.jpg" crc="4049654092" seo="true" ref="design"/>
+    <file name="72.jpg" crc="112877811" seo="true" ref="design"/>
+    <file name="82.jpg" crc="300503707" seo="true" ref="design"/>
+    <file name="92.jpg" crc="34475129" seo="true" ref="design"/>
+    <file name="102.jpg" crc="3867738446" seo="true" ref="design"/>
+    <file name="112.jpg" crc="483647425" seo="true" ref="design"/>
+    <file name="122.jpg" crc="4096318745" seo="true" ref="design"/>
+    <file name="132.jpg" crc="440257600" seo="true" ref="design"/>
+    <file name="142.jpg" crc="4075646672" seo="true" ref="design"/>
+    <file name="15.jpg" crc="3969932441" seo="true" ref="design"/>
+    <file name="16.jpg" crc="3998286616" seo="true" ref="design"/>
+    <file name="17.jpg" crc="134160438" seo="true" ref="design"/>
+    <file name="18.jpg" crc="3984740140" seo="true" ref="design"/>
+    <file name="19.jpg" crc="431971186" seo="true" ref="design"/>
+    <file name="20.jpg" crc="4263480845" seo="true" ref="design"/>
+    <file name="21.jpg" crc="449525105" seo="true" ref="design"/>
+    <file name="110.jpg" crc="267623956" seo="true" ref="design"/>
+    <file name="23.jpg" crc="303352094" seo="true" ref="design"/>
+    <file name="33.jpg" crc="47877992" seo="true" ref="design"/>
+    <file name="42.jpg" crc="401082138" seo="true" ref="design"/>
+    <file name="53.jpg" crc="103157044" seo="true" ref="design"/>
+    <file name="63.jpg" crc="3872552195" seo="true" ref="design"/>
+    <file name="73.jpg" crc="4086914069" seo="true" ref="design"/>
+    <file name="83.jpg" crc="4215763985" seo="true" ref="design"/>
+    <file name="93.jpg" crc="93525677" seo="true" ref="design"/>
+    <file name="103.jpg" crc="3829121437" seo="true" ref="design"/>
+    <file name="113.jpg" crc="3826600310" seo="true" ref="design"/>
+    <file name="123.jpg" crc="4072370056" seo="true" ref="design"/>
+    <file name="133.jpg" crc="38757202" seo="true" ref="design"/>
+    <file name="143.jpg" crc="4116468870" seo="true" ref="design"/>
+    <file name="111.jpg" crc="4209379413" seo="true" ref="design"/>
+    <file name="24.jpg" crc="100749413" seo="true" ref="design"/>
+    <file name="34.jpg" crc="4056461774" seo="true" ref="design"/>
+    <file name="43.jpg" crc="3817718715" seo="true" ref="design"/>
+    <file name="54.jpg" crc="3906674903" seo="true" ref="design"/>
+    <file name="64.jpg" crc="4086226264" seo="true" ref="design"/>
+    <file name="74.jpg" crc="202654105" seo="true" ref="design"/>
+    <file name="84.jpg" crc="3778853393" seo="true" ref="design"/>
+    <file name="94.jpg" crc="4234202082" seo="true" ref="design"/>
+    <file name="104.jpg" crc="486573837" seo="true" ref="design"/>
+    <file name="114.jpg" crc="4016801836" seo="true" ref="design"/>
+    <file name="124.jpg" crc="110931018" seo="true" ref="design"/>
+    <file name="134.jpg" crc="464339229" seo="true" ref="design"/>
+    <file name="144.jpg" crc="4182599286" seo="true" ref="design"/>
+    <file name="152.jpg" crc="4266739480" seo="true" ref="design"/>
+    <file name="162.jpg" crc="283200383" seo="true" ref="design"/>
+    <file name="名片初稿-032.png" crc="165084962" seo="true" ref="design"/>
+    <file name="名片初稿-04.png" crc="323882951" seo="true" ref="design"/>
+    <file name="名片初稿-05.png" crc="430174339" seo="true" ref="design"/>
+    <file name="photo_5.jpg" crc="4268487613" seo="true" ref="photography"/>
+    <file name="2015summer-1.jpg" crc="303786320" seo="true" ref="photography"/>
+    <file name="2015summer-5.jpg" crc="4014404899" seo="true" ref="photography"/>
+    <file name="2015summer-6.jpg" crc="3917233390" seo="true" ref="photography"/>
+    <file name="2015summer-8.jpg" crc="444855051" seo="true" ref="photography"/>
+    <file name="2015summer-9.jpg" crc="4084975460" seo="true" ref="photography"/>
+    <file name="木眼鏡@馬翊-1.jpg" crc="3925005580" seo="true" ref="photography"/>
+    <file name="白目二分之一＠馬翊_03.jpg" crc="377579057" seo="true" ref="photography"/>
+    <file name="焦點舞團@馬翊-4.jpg" crc="324853609" seo="true" ref="photography"/>
+    <file name="數位音樂創作社＠馬翊_04.jpg" crc="261201031" seo="true" ref="photography"/>
+    <file name="hellonico@馬翊-8.jpg" crc="1215883" seo="true" ref="photography"/>
+    <file name="hellonico@馬翊-23.jpg" crc="4065628300" seo="true" ref="photography"/>
+    <file name="1(6x8).jpg" crc="4075903900" seo="true" ref="photography"/>
+    <file name="2(6x8).jpg" crc="3979281612" seo="true" ref="photography"/>
+    <file name="3(6x8).jpg" crc="3999051149" seo="true" ref="photography"/>
+    <file name="4(6x8).jpg" crc="509630887" seo="true" ref="photography"/>
+    <file name="5(11x14).jpg" crc="167270496" seo="true" ref="photography"/>
+    <file name="img_004568x45.jpg" crc="228757620" seo="true" ref="photography"/>
+    <file name="2015summer-368x45.jpg" crc="4200659330" seo="true" ref="photography"/>
+    <file name="2015summer-468x45.jpg" crc="4079587558" seo="true" ref="photography"/>
+    <file name="6(11x14)68x45.jpg" crc="4164832608" seo="true" ref="photography"/>
+    <file name="photo_568x45.jpg" crc="92256061" seo="true" ref="photography"/>
+    <file name="2015summer-168x45.jpg" crc="3851991019" seo="true" ref="photography"/>
+    <file name="2015summer-568x45.jpg" crc="4105689282" seo="true" ref="photography"/>
+    <file name="2015summer-668x45.jpg" crc="40921788" seo="true" ref="photography"/>
+    <file name="2015summer-868x45.jpg" crc="268724874" seo="true" ref="photography"/>
+    <file name="2015summer-968x45.jpg" crc="4052860186" seo="true" ref="photography"/>
+    <file name="白目二分之一＠馬翊_0968x45.jpg" crc="4263284381" seo="true" ref="photography"/>
+    <file name="hellonico@馬翊-1768x45.jpg" crc="199678563" seo="true" ref="photography"/>
+    <file name="hellonico@馬翊-2468x45.jpg" crc="465676923" seo="true" ref="photography"/>
+    <file name="木眼鏡@馬翊-168x45.jpg" crc="4054783854" seo="true" ref="photography"/>
+    <file name="白目二分之一＠馬翊_0368x45.jpg" crc="6952082" seo="true" ref="photography"/>
+    <file name="焦點舞團@馬翊-468x45.jpg" crc="4017728317" seo="true" ref="photography"/>
+    <file name="數位音樂創作社＠馬翊_0468x45.jpg" crc="364527775" seo="true" ref="photography"/>
+    <file name="hellonico@馬翊-868x45.jpg" crc="204875406" seo="true" ref="photography"/>
+    <file name="hellonico@馬翊-2368x45.jpg" crc="414094638" seo="true" ref="photography"/>
+    <file name="1(6x8)68x45.jpg" crc="3765969916" seo="true" ref="photography"/>
+    <file name="2(6x8)68x45.jpg" crc="3825111729" seo="true" ref="photography"/>
+    <file name="3(6x8)68x45.jpg" crc="4091732354" seo="true" ref="photography"/>
+    <file name="4(6x8)68x45.jpg" crc="309999844" seo="true" ref="photography"/>
+    <file name="5(11x14)68x45.jpg" crc="349296813" seo="true" ref="photography"/>
+    <file name="粉絲團logo-u3495-fr.jpg" crc="319603413" ref="忘憂雜貨店"/>
+    <file name="粉絲團banner.jpg" crc="217423607" ref="忘憂雜貨店"/>
+    <file name="12347926_1547283812228533_5144647312182585584_n.jpg" crc="318703581" ref="忘憂雜貨店"/>
+    <file name="金魚市集.jpg" crc="162485912" ref="忘憂雜貨店"/>
+    <file name="印章區.jpg" crc="14432449" ref="忘憂雜貨店"/>
+    <file name="12366473_1547258002231114_8261254596410453989_n.jpg" crc="4125063575" ref="忘憂雜貨店"/>
+    <file name="12357189_1547153258908255_1783432853362699173_o-u3651-fr.jpg" crc="4191007110" ref="忘憂雜貨店"/>
+    <file name="金魚市集2.jpg" crc="4176142979" ref="忘憂雜貨店"/>
+    <file name="887202_1551370375153210_3904660866923623710_o.jpg" crc="3959133598" seo="true" ref="忘憂雜貨店"/>
+    <file name="12313683_1546872385603009_5964469240605491579_n.jpg" crc="193836528" seo="true" ref="忘憂雜貨店"/>
+    <file name="12357185_1549419145348333_3751170880024515692_o-crop-u3564.jpg" crc="3879104912" ref="忘憂雜貨店"/>
+    <file name="12357189_1547153258908255_1783432853362699173_o-crop-u3573.jpg" crc="219552441" ref="忘憂雜貨店"/>
+    <file name="聖誕包-crop-u3582.jpg" crc="3802954465" ref="忘憂雜貨店"/>
+    <file name="postcard-01.jpg" crc="4035165060" seo="true" ref="忘憂雜貨店"/>
+    <file name="12291801_1546145739009007_4468674291466549181_o.jpg" crc="4290787738" seo="true" ref="忘憂雜貨店"/>
+    <file name="postcard-04.jpg" crc="4241672332" seo="true" ref="忘憂雜貨店"/>
+    <file name="b612_20151203_232540.jpg" crc="4073288501" seo="true" ref="忘憂雜貨店"/>
+    <file name="1172529_835751943238214_2059347456_n.jpg" crc="3992146737" ref="商業攝影"/>
+    <file name="10349834_974947625925529_2125084780_n.jpg" crc="377281555" ref="商業攝影"/>
+    <file name="12424693_1749481555283801_1396461764_n.jpg" crc="3988033752" ref="商業攝影"/>
+    <file name="12523782_1503839573256278_2106831528_n.jpg" crc="3843820766" ref="商業攝影"/>
+    <file name="11313375_203707459992821_1120132004_n.jpg" crc="4187136164" ref="商業攝影"/>
+    <file name="12783477_688294631313090_23029817_n.jpg" crc="535666132" ref="商業攝影"/>
+    <file name="12749833_179962669045947_1735602112_n.jpg" crc="3797311299" ref="商業攝影"/>
+    <file name="修-2拷貝.jpg" crc="4100740256" seo="true" ref="商業攝影"/>
+    <file name="修-5.jpg" crc="69509654" seo="true" ref="商業攝影"/>
+    <file name="dsc_5902.jpg" crc="407908535" seo="true" ref="商業攝影"/>
+    <file name="dsc_5918.jpg" crc="360451108" seo="true" ref="商業攝影"/>
+    <file name="dsc_7090.jpg" crc="4256853175" seo="true" ref="商業攝影"/>
+    <file name="修-1.jpg" crc="3849826369" seo="true" ref="商業攝影"/>
+    <file name="修-4.jpg" crc="4194417328" seo="true" ref="商業攝影"/>
+    <file name="修-5 拷貝.jpg" crc="188183189" seo="true" ref="商業攝影"/>
+    <file name="修-2拷貝68x45.jpg" crc="4049324947" seo="true" ref="商業攝影"/>
+    <file name="修-5-crop-u3897.jpg" crc="3995299001" ref="商業攝影"/>
+    <file name="dsc_590268x45.jpg" crc="516489772" seo="true" ref="商業攝影"/>
+    <file name="dsc_591868x45.jpg" crc="4268836038" seo="true" ref="商業攝影"/>
+    <file name="dsc_709068x45.jpg" crc="3806662450" seo="true" ref="商業攝影"/>
+    <file name="修-168x45.jpg" crc="169356001" seo="true" ref="商業攝影"/>
+    <file name="修-468x45.jpg" crc="70588031" seo="true" ref="商業攝影"/>
+    <file name="修-5 拷貝-crop-u3951.jpg" crc="4287935933" ref="商業攝影"/>
+  </folder>
+  <file name="index.html" crc="3866655522" seo="true" mt="1478505246915" redirect="true"/>
+  <file name="about.html" crc="136385295" seo="true" mt="1478505250771" redirect="true"/>
+  <file name="portfolio.html" crc="4180279159" seo="true" mt="1478505250771" redirect="true"/>
+  <file name="contact.html" crc="67204863" seo="true" mt="1478505250771" redirect="true"/>
+  <file name="design.html" crc="3980780675" seo="true" mt="1478505254069" redirect="true"/>
+  <file name="photography.html" crc="4003386941" seo="true" mt="1478505254069" redirect="true"/>
+  <file name="video.html" crc="149029948" seo="true" mt="1478505254069" redirect="true"/>
+  <file name="others.html" crc="4017342002" seo="true" mt="1478505254069" redirect="true"/>
+  <file name="忘憂雜貨店.html" crc="225605135" seo="true" mt="1478505254069" redirect="true"/>
+  <file name="商業攝影.html" crc="351919431" seo="true" mt="1478505254069" redirect="true"/>
+</manifest>
